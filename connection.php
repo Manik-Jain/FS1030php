@@ -1,7 +1,7 @@
 <?php
 $servername = "127.0.0.1";
-$username = "root";
-$password = "w8p3c9x";
+$username = "nodeclient";
+$password = "123456";
 $database = "testdb";
 
 // Create connection
