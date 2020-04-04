@@ -35,3 +35,6 @@ PRIMARY KEY (`id`)
 
 Open http://localhost/FS1030php/
 
+## To know about php environment
+
+Open http://localhost/FS1030php/phpinfo.php
